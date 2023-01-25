@@ -3,4 +3,4 @@
 Full-stack web developer 
 
 radme 
-my profi 
+my profile
